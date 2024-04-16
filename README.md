@@ -64,7 +64,7 @@ Mamat Buhbash: GUQ0034T-01: Male
 ```
 
 
-### Example 1:
+### Example 2:
 Give the commands
 ```
 Assign NHU0001A-01 John Doe
