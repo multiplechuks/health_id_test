@@ -15,9 +15,9 @@ Given the patient Identifer ZZZ9999Z-02, the next patient would get an error as 
 
 ## Requirements
 Write a program that assign an identifier to a patient for an EMR system.
-Your program should be able to `Assign` an Identifier and `Issue` a new Identifier given an alphanumeric stringrepresenting the last assigned ID number.
+Your program should be able to `Assign` an Identifier and `Issue` a new Identifier given an alphanumeric string representing the last assigned ID number.
 
-1. Your program must accept two input commands passed with space delimited arguments.
+1. Your program must accept two (`Assign` and `Issue`) input commands passed with space delimited arguments.
 2. "**Assign**" will register a new patient with the supplied identifier.
     * Assign will be called as follows:
         * `Assign GUQ0034T-01 Seretse Goitsebeng Peter` or `Assign HJY9890T-02 Maphiri Khama`
